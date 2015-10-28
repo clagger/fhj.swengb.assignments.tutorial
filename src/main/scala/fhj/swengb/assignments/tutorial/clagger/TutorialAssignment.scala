@@ -1,4 +1,4 @@
-package fhj.swengb.assignments.tutorial.rladstaetter
+package fhj.swengb.assignments.tutorial.clagger
 
 object TutorialAssignment {
   def hello() = "Hello world!"
